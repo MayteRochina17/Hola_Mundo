@@ -1,0 +1,13 @@
+ # Ejercicio Hola Mundo 
+ ## Python
+Es un lenguaje de programacion multiproposito en 1991, por Guido Van Rossum
+```Python
+print ("HOLA MUNDO")
+```
+# C++
+Creado y diseñado por el informatico danes Bjarne Stroustrup
+```c++
+int main ()
+sdt ::count <<"Hola Mundo" << sdt::endl
+```
+
